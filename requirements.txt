@@ -91,7 +91,7 @@ PyAutoGUI==0.9.48
 pycparser==2.19
 PyGetWindow==0.0.8
 Pygments==2.5.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMsgBox==1.0.7
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
